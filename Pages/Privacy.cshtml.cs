@@ -14,6 +14,7 @@ namespace zatii_azure_web_app.Pages
 
         public void OnGet()
         {
+            throw new Exception("Testing Insights");
         }
     }
 
